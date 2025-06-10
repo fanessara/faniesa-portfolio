@@ -7,21 +7,21 @@ const projects =[{
     name: "Solution Challenge",
     year: "2024",
     align: "right",
-    image: "../../faniesa dokumen/sertifikat1.png",
+    image: "/image/sertifikat1.png"
 
 },
 {
   name: "SAP Analytics Cloud and SAP Build Apss",
   year: "2024",
   align: "left",
-  image: "../../faniesa dokumen/sertifikat 2.png",
+  image: "image/sertifikat2.png"
 
 },
 {
   name: "CTF Online Class",
   year: "2024",
   align: "right",
-  image: "../../faniesa dokumen/sertifikat3.png",
+  image: "image/sertifikat3.png"
 },
 
 
